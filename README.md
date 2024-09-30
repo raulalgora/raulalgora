@@ -1,16 +1,31 @@
-## Hi there 👋
+> 👨🏻‍💻 **Business Strategic Consultant**
 
-<!--
-**raulalgora/raulalgora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
 
-Here are some ideas to get you started:
+- 🛠 **Tools & Platforms**: SQL, Tableau, AWS, Azure
+- 🚀 **Cloud & Data**: AWS, Google Cloud, Business Intelligence
+- 💡 **Interests**: Data Analysis, Business Analytics, Cloud Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- 📊 *Pending...*
+
+### Social Media
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-algora-l%C3%B3pez-93ba02249)
+
+### GitHub Stats
+
+![raulalgora github stats](https://github-readme-stats.vercel.app/api?username=raulalgora&show_icons=true&theme=dracula&hide=stars,issues)
+
+<details>
+  <summary>More Info</summary>
+  <pre>
+  Constantly learning and working on data-driven strategies.
+  Focusing on improving cloud integration and business analytics solutions.
+  </pre>
+</details>
+
+![build](https://github.com/raulalgora/raulalgora/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/raulalgora/raulalgora)
+![pv](https://pageview.vercel.app/?github_user=raulalgora)
