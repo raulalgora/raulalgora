@@ -4,11 +4,11 @@
 
 - 👨‍💼 I’m open to collaborative opportunities and freelance work.
 
-- ✍️ I regularly share insights and ideas on [LinkedIn](www.linkedin.com/in/raulalgoralopez).
+- ✍️ I regularly share insights and ideas on [LinkedIn](https://www.linkedin.com/in/raulalgoralopez/).
 
 - 💬 Feel free to reach out for discussions about **technology trends, data analysis, and software development**.
 
-- 📝 Learn more about my professional journey through my [LinkedIn Profile](www.linkedin.com/in/raulalgoralopez).
+- 📝 Learn more about my professional journey through my [LinkedIn Profile](https://www.linkedin.com/in/raulalgoralopez/).
 
 ### Skills
 
@@ -25,7 +25,7 @@
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/raulalgoralopez/">
+    <a style="margin-left: 10px;" target="_blank" href="https://https://www.linkedin.com/in/raulalgoralopez/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/raulalgoralopez">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
