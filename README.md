@@ -1,16 +1,25 @@
-- 🔧 I’m currently working at a **strategy consulting firm** on projects related to **technology and digital transformation**.
+<h1 align="center">Hi 👋, I'm Raúl Algora López</h1>
+<h3 align="center">A passionate data and technology enthusiast</h3>
 
-- 🌱 I’m currently enhancing my skills in **data analytics and cloud technologies**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raulalgoralopez&label=Profile%20views&color=0e75b6&style=flat" alt="raulalgoralopez" /> </p>
 
-- 👨‍💼 I’m open to collaborative opportunities and freelance work.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-- ✍️ I regularly share insights and ideas on [LinkedIn](https://www.linkedin.com/in/raulalgoralopez/).
+- 🔧 I’m currently working at **HGBS**, a **consulting firm specialized in financial, business, and strategic projects**.
 
-- 💬 Feel free to reach out for discussions about **technology trends, data analysis, and software development**.
+- 🌱 I’m pursuing a **Master’s in Big Data and Cloud Technologies** to deepen my expertise in advanced analytics and infrastructure.
 
-- 📝 Learn more about my professional journey through my [LinkedIn Profile](https://www.linkedin.com/in/raulalgoralopez/).
+- 👨‍💼 I’m open to **collaborative opportunities** and **freelance work**.
 
-### Skills
+- 💬 Let’s discuss **technology trends, data analysis, and software development**.
+
+- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/raulalgoralopez/)**.
+
+---
+
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Skills</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" style="margin-right: 10px;">
@@ -21,11 +30,13 @@
   <img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka" title="Apache Kafka" style="margin-right: 10px;">
 </p>
 
-### Connect with Me 🤝
+---
+
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with Me 🤝 </h3>
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://https://www.linkedin.com/in/raulalgoralopez/">
+    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/raulalgoralopez/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/raulalgoralopez">
       <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"></a>
@@ -39,5 +50,3 @@
 ---
 
 Credit: Adapted from a template by [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: [Insert Date]
