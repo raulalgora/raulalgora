@@ -27,7 +27,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="Spark" title="Apache Spark" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/kafka.png" alt="Kafka" title="Apache Kafka" style="margin-right: 10px;">
 </p>
 
 ---
@@ -42,6 +41,3 @@
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
 </p>
-
-
-Credit: Adapted from a template by [Saurabh Chavan](https://github.com/100rabhcsmc)
