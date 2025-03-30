@@ -17,14 +17,6 @@ Hello! I'm <b>Raúl Algora López</b>, a data and technology enthusiast with:
 - 📊 Currently working as a <b>Data Analyst at NTT DATA</b>, applying analytics, automation and process optimization
 - 🌱 Pursuing a <b>Master's in Big Data and Cloud Technologies</b> to enhance my expertise in advanced analytics
 - 🚀 Known for being a fast learner who quickly adapts to new technologies and methodologies
-
----
-
-My journey began in business consulting, where I discovered the transformative power of data in decision-making. This led me to specialize in data analytics and cloud technologies.
-
-I'm passionate about technology, constantly exploring emerging trends and tools. I believe continuous learning is essential in this rapidly evolving field, and my ability to grasp new concepts quickly has been a significant advantage throughout my career.
-
-Detail-oriented, collaborative, and innovation-driven, I'm always open to new challenges and connections with like-minded professionals. Feel free to reach out for discussions on technology trends, data analysis, or potential collaborations!
 </div>
 
 ## 🛠️ Language and tools
