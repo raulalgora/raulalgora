@@ -1,43 +1,32 @@
-<h1 align="center">Hi 👋, I'm Raúl Algora López</h1>
-<h3 align="center">A passionate data and technology enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raulalgoralopez&label=Profile%20views&color=0e75b6&style=flat" alt="raulalgoralopez" /> </p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="300" height="200">
+  <a href="https://www.linkedin.com/in/raulalgoralopez/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:algoralopezr@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
----
+## 👨‍💻 About Me
 
-- 🔧 I’m currently working at **HGBS**, a **consulting firm specialized in financial, business, and strategic projects**.
+Hello! My name is Raúl Algora López, a passionate data and technology enthusiast. I'm currently working at HGBS, a consulting firm specialized in financial, business, and strategic projects.
 
-- 🌱 I’m pursuing a **Master’s in Big Data and Cloud Technologies** to deepen my expertise in advanced analytics and infrastructure.
+I'm pursuing a Master's in Big Data and Cloud Technologies to deepen my expertise in advanced analytics and infrastructure. My professional journey has allowed me to work on diverse projects, applying my skills in data analysis and technology integration to solve complex business challenges.
 
-- 💬 Let’s discuss **technology trends, data analysis, and software development**.
+I'm passionate about technology trends, data analysis, and software development. I believe that continuous learning is essential for growth in this rapidly evolving field, and I'm always looking for opportunities to expand my knowledge and skills.
 
-- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/raulalgoralopez/)**.
+I consider myself detail-oriented, collaborative, and enthusiastic about innovation. I'm always open to new challenges and eager to connect with like-minded professionals. Feel free to reach out if you'd like to discuss technology trends, data analysis, or explore potential collaboration opportunities!
 
----
+## 🛠️ Language and tools
 
-<h3 align="center"> 🛠 Skills </h3>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" style="margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="Spark" title="Apache Spark" style="margin-right: 10px;">
-</p>
-
----
-
-<h3 align="center"> 🤝 Connect with Me </h3>
-
-<p align="center">
-  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/raulalgoralopez/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/raulalgoralopez">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-  </a>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+</div>
