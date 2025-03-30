@@ -9,13 +9,23 @@
 
 ## 👨‍💻 About Me
 
-Hello! My name is Raúl Algora López, a passionate data and technology enthusiast. I'm currently working at HGBS, a consulting firm specialized in financial, business, and strategic projects.
+<div align="justify">
+Hello! I'm <b>Raúl Algora López</b>, a data and technology enthusiast with:
 
-I'm pursuing a Master's in Big Data and Cloud Technologies to deepen my expertise in advanced analytics and infrastructure. My professional journey has allowed me to work on diverse projects, applying my skills in data analysis and technology integration to solve complex business challenges.
+- 🎓 A degree in <b>Business Administration and Management</b> from the University of Valencia
+- 💼 Initial experience at <b>HGBS</b>, a strategic and financial consulting firm, where I developed business strategy skills
+- 📊 Currently working as a <b>Data Analyst at NTT DATA</b>, applying analytics, automation and process optimization
+- 🌱 Pursuing a <b>Master's in Big Data and Cloud Technologies</b> to enhance my expertise in advanced analytics
+- 🚀 Known for being a fast learner who quickly adapts to new technologies and methodologies
 
-I'm passionate about technology trends, data analysis, and software development. I believe that continuous learning is essential for growth in this rapidly evolving field, and I'm always looking for opportunities to expand my knowledge and skills.
+---
 
-I consider myself detail-oriented, collaborative, and enthusiastic about innovation. I'm always open to new challenges and eager to connect with like-minded professionals. Feel free to reach out if you'd like to discuss technology trends, data analysis, or explore potential collaboration opportunities!
+My journey began in business consulting, where I discovered the transformative power of data in decision-making. This led me to specialize in data analytics and cloud technologies.
+
+I'm passionate about technology, constantly exploring emerging trends and tools. I believe continuous learning is essential in this rapidly evolving field, and my ability to grasp new concepts quickly has been a significant advantage throughout my career.
+
+Detail-oriented, collaborative, and innovation-driven, I'm always open to new challenges and connections with like-minded professionals. Feel free to reach out for discussions on technology trends, data analysis, or potential collaborations!
+</div>
 
 ## 🛠️ Language and tools
 
